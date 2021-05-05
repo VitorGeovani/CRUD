@@ -9,3 +9,8 @@
 
 <img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="max-width:100%;"></img> **Docker -  (https://www.docker.com/get-started)**
 
+<img align="center" alt="icon-js" height="30" width="40" src="icons/visual-studio-code-logo-svg-vector.svg" style="max-width:100%;"></img> **Visual Studio Code -  (https://code.visualstudio.com/Download)**
+
+<img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width:100%;"></img> **React -  (https://pt-br.reactjs.org/)**
+
+<img align="center" alt="icon-js" height="30" width="40" src="" style="max-width:100%;"></img> **Postman -  (https://pt-br.reactjs.org/)**
