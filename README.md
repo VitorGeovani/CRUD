@@ -17,7 +17,7 @@
 
 <img align="center" alt="icon-js" height="30" width="40" src="icons/tableplus-v1.png" style="max-width:100%;"></img> **TablePlus - (https://www.tableplus.io/download)**
 
-<img align="center" alt="icon-js" height="30" width="40" src="" style="max-width:100%;"></img> **Swagger - (https://swagger.io/)**
+<img align="center" alt="icon-js" height="30" width="40" src="icons/swagger-seeklogo.com.svg" style="max-width:100%;"></img> **Swagger - (https://swagger.io/)**
 
 
 
