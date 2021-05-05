@@ -24,19 +24,19 @@
 ## :information_source: Dentro do Visual Studio Code, em especial, usamos as seguintes extensões:
 
 <p align="left">
-  <img src="extensions/java-extension.png">
+  <img height="150" width"150" src="extensions/java-extension.png">
   </p>
   
  <p align="left">
-  <img src="extensions/springboot-extension.png">
+  <img height="150" width"150" src="extensions/springboot-extension.png">
   </p>
   
  <p align="left">
-  <img src="extensions/lombok-extension.png">
+  <img height="150" width"150" src="extensions/lombok-extension.png">
   </p>
   
  <p align="left">
-  <img src="extensions/docker-extension.png">
+  <img height="150" width"150" src="extensions/docker-extension.png">
   </p>
 
 ### :information_source: **Para criar o seu próprio CRUD usando Java, React, NodeJS, Swagger, Postman e Docker, acesse o vídeo do canal Mahesh Kariya (https://www.youtube.com/watch?v=aYvU0vI_Tg0&t=2092s&ab_channel=MaheshKariya)**
