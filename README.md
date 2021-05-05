@@ -21,7 +21,7 @@
 
 <img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;"></img> **NodeJS - (https://nodejs.org/en/)**
 
-### :information_source: Dentro do Visual Studio Code usamos as seguintes extensões:
+### :information_source: Dentro do Visual Studio Code, em especial, usamos as seguintes extensões:
 
 <p align="left">
   <img src="extensions/java-extension.png">
