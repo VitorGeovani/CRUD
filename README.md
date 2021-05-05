@@ -1,5 +1,5 @@
 # CRUD :file_folder:
-:bookmark_tabs: **CRUD com Java, React, Swagger e Docker.**
+:bookmark_tabs: **CRUD com Java, React, NodeJS, Postman, Swagger e Docker.**
 
 ### :information_source: Especificações do Projeto:
 
