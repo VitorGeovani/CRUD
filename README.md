@@ -21,6 +21,18 @@
 
 ### :information_source: Dentro do Visual Studio Code usamos as seguintes extensões:
 
+<p align="left">
+  <img src="extensions/java-extension.png">
+  </p>
+  
+  <p align="left">
+  <img src="extensions/springboot-extension.png">
+  </p>
+  
+  <p align="left">
+  <img src="extensions/lombok-extension.png">
+  </p>
+
 
 
 
