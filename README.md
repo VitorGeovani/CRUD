@@ -19,6 +19,11 @@
 
 <img align="center" alt="icon-js" height="30" width="40" src="icons/swagger-seeklogo.com.svg" style="max-width:100%;"></img> **Swagger - (https://swagger.io/)**
 
+### :information_source: Dentro do Visual Studio Code usamos as seguintes extensões:
+
+
+
+
 
 
 
