@@ -32,6 +32,10 @@
   <p align="left">
   <img src="extensions/lombok-extension.png">
   </p>
+  
+  <p align="left">
+  <img src="extensions/docker-extension.png">
+  </p>
 
 
 
