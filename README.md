@@ -41,10 +41,26 @@
 
 ### :information_source: **Para criar o seu próprio CRUD usando Java, React, NodeJS, Swagger, Postman e Docker, acesse o vídeo do canal Mahesh Kariya (https://www.youtube.com/watch?v=aYvU0vI_Tg0&t=2092s&ab_channel=MaheshKariya)**
 
+## 📍 **Abra no Terminal**
+**cd frontend**
 
+## 📍 **Instale as dependências**
+**npm install**
 
+## 📍 **Rodar a página**
+**npm start**
 
+## 📍 **Abra em outro Terminal**
+**cd backend**
 
+## 📍 **Rodar o Projeto SpringBoot**
+**mvn spring-boot:run**
+
+## 📍 **Link para ver nossa API backend**
+**(http://localhost:8080/swagger-ui.html)**
+
+## 📍 **Link para ver nosso frontend**
+**(http://localhost:3000/)**
 
 
 
