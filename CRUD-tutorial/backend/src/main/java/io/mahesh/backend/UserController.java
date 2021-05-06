@@ -19,9 +19,9 @@ public class UserController {
     @Autowired
     private UserRepository userRepository;
 
-    @GetMapping("/")
-    public List<User> GetUsers() {
-        return userRepository.findAll();
+    @GetMapping("/{id}")
+    public List<User> GetUsers(@PathVariable Integer id) {
+        return userRepository.findById(id);
     }
     @GetMapping("/{id}")
     public User GetUser(@PathVariable Integer id) {

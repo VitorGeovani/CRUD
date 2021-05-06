@@ -92,10 +92,10 @@ class App extends React.Component {
         <button class="btn waves-effect waves-light right" type="submit" name="action">Registrar
           <i class="material-icons right">send</i>
         </button>
-        {/* <div class="input-field col s12">
+        { <div class="input-field col s12">
         <i class="material-icons prefix">search</i>
         <input type="text" id="mySearch" onkeyup="myFunction()" placeholder="Pesquise um produto" title="Digite o nome do produto desejado"></input>
-        </div> */}
+        </div> }
         </form>
       </div>
       <div className="col s6">
