@@ -86,3 +86,8 @@
   <img height="200" width"200" src="demo.png">
   </p>
 
+
+<p align="center">
+  <img width="300px" height"=300px" src="/logo_gp8.png">
+  </p>
+
