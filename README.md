@@ -1,6 +1,20 @@
 # CRUD :file_folder:
 :bookmark_tabs: **CRUD com Java, React, NodeJS, Postman, Swagger e Docker.**
 
+## Membros do Grupo 8
+
+:boy: **- Lucas Alves Moreira**
+
+:boy: **- Lucas Galdino**
+
+:boy: **- Maurício Alves Moreira**
+
+:boy: **- Vitor Geovani**
+
+:boy: **- Tiago Soares**
+
+:boy: **- Ryan Marinho**
+
 ### :information_source: Especificações do Projeto:
 
 **Utilizando Java, React, Swagger e Docker desenvolvemos um CRUD de Lista de Produtos. Nessa lista você adiciona o nome, preço e a descrição do produto e todos esses dados ficam armazenados em uma DB (DataBase), criada pelo Docker.**
@@ -41,6 +55,8 @@
 
 ### :information_source: **Para criar o seu próprio CRUD usando Java, React, NodeJS, Swagger, Postman e Docker, acesse o vídeo do canal Mahesh Kariya (https://www.youtube.com/watch?v=aYvU0vI_Tg0&t=2092s&ab_channel=MaheshKariya)**
 
+### :information_source: **Acesse nossa demo no Netlify --> (https://crud-grupo8.netlify.app/)**
+
 ## :information_source: **Comandos e links importantes:**
 ### 📍 **Abra no Terminal**
 **cd frontend**
@@ -62,6 +78,9 @@
 
 ### 📍 **Link para ver o frontend**
 **(http://localhost:3000/)**
+
+
+### **Demo do nosso projeto:**
 
 
 
