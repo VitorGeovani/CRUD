@@ -57,10 +57,10 @@
 ### 📍 **Rodar o Projeto SpringBoot**
 **mvn spring-boot:run**
 
-### 📍 **Link para ver nossa API backend**
+### 📍 **Link para ver a API backend**
 **(http://localhost:8080/swagger-ui.html)**
 
-### 📍 **Link para ver nosso frontend**
+### 📍 **Link para ver o frontend**
 **(http://localhost:3000/)**
 
 
